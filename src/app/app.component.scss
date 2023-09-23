@@ -1,0 +1,22 @@
+.searchComp{
+    padding: 20px;
+    .container{
+        width: 65%;
+        .title,.nbofposts{
+            font-weight: bold;
+        }
+        .search{
+            margin-bottom: 50px;
+            .search-form-field{
+                width: 100%;
+            }
+        }
+        .items{
+            .item{
+                border-bottom: 2px solid #ede8e8;
+                margin-bottom: 20px;
+                padding-block: 25px;
+            }
+        }
+    }
+}
